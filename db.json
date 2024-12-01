@@ -1,0 +1,100 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Internet Sakti - Paket 5GB",
+        "price": 20000,
+        "description": "Paket Internet Sakti dengan kecepatan tinggi dan tanpa batas untuk 30 hari.",
+        "image": "../../images.jpg",
+        "category": "Internet Sakti"
+      },
+      {
+        "id": 2,
+        "title": "Internet Sakti - Paket 10GB",
+        "price": 30000,
+        "description": "Paket Internet Sakti dengan kecepatan ultra dan bonus kuota 5GB.",
+        "image": "../../images.jpg",
+        "category": "Internet Sakti"
+      },
+      {
+        "id": 3,
+        "title": "Internet Sakti - Paket 20GB",
+        "price": 40000,
+        "description": "Paket Internet Sakti dengan akses premium dan layanan pelanggan 24/7.",
+        "image": "../../images.jpg",
+        "category": "Internet Sakti"
+      },
+      {
+        "id": 4,
+        "title": "Internet Spesial - Paket 4GB",
+        "price": 25000,
+        "description": "Paket Internet Spesial dengan kecepatan tinggi dan kuota 30GB.",
+        "image": "../../images.jpg",
+        "category": "Internet Spesial"
+      },
+      {
+        "id": 5,
+        "title": "Internet Spesial - Paket 12GB",
+        "price": 35000,
+        "description": "Paket Internet Spesial dengan kuota tak terbatas dan bonus streaming.",
+        "image": "../../images.jpg",
+        "category": "Internet Spesial"
+      },
+      {
+        "id": 6,
+        "title": "Internet Spesial - Paket 20GB",
+        "price": 45000,
+        "description": "Paket Internet Spesial dengan akses VIP dan dukungan pelanggan prioritas.",
+        "image": "../../images.jpg",
+        "category": "Internet Spesial"
+      },
+      {
+        "id": 7,
+        "title": "Internet Bulanan - Paket 1",
+        "price": 15000,
+        "description": "Paket Internet Bulanan dengan kuota 10GB.",
+        "image": "../../images.jpg",
+        "category": "Internet Bulanan"
+      },
+      {
+        "id": 8,
+        "title": "Internet Bulanan - Paket 2",
+        "price": 25000,
+        "description": "Paket Internet Bulanan dengan kuota 20GB dan kecepatan stabil.",
+        "image": "../../images.jpg",
+        "category": "Internet Bulanan"
+      },
+      {
+        "id": 9,
+        "title": "Internet Bulanan - Paket 3",
+        "price": 35000,
+        "description": "Paket Internet Bulanan dengan kuota 30GB dan bonus 5GB.",
+        "image": "../../images.jpg",
+        "category": "Internet Bulanan"
+      },
+      {
+        "id": 10,
+        "title": "Internet Mingguan - Paket 1",
+        "price": 10000,
+        "description": "Paket Internet Mingguan dengan kuota 5GB.",
+        "image": "../../images.jpg",
+        "category": "Internet Mingguan"
+      },
+      {
+        "id": 11,
+        "title": "Internet Mingguan - Paket 2",
+        "price": 15000,
+        "description": "Paket Internet Mingguan dengan kuota 10GB dan kecepatan tinggi.",
+        "image": "../../images.jpg",
+        "category": "Internet Mingguan"
+      },
+      {
+        "id": 12,
+        "title": "Internet Mingguan - Paket 3",
+        "price": 20000,
+        "description": "Paket Internet Mingguan dengan kuota 15GB dan akses cepat.",
+        "image": "../../images.jpg",
+        "category": "Internet Mingguan"
+      }
+    ]
+  }
